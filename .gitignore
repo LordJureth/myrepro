@@ -1,0 +1,10 @@
+#this is a comment
+# Enter file names here for files that you wish to be ignored by the git commit.
+
+#Auto Generated files
+log.txt
+
+#Static Files. 
+
+# Auto Generated directories
+AutoGen/*
